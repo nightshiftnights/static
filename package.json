@@ -1,0 +1,27 @@
+{
+  "name": "plus2-static",
+  "version": "1.0.0",
+  "description": "Plus2 static template. Not for public use",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Plus2",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "autoprefixer": "^6.7.5",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "postcss-flexbugs-fixes": "^2.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  }
+}

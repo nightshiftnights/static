@@ -1,0 +1,8 @@
+/node_modules/**/*
+/sass-cache/**/*
+#for now
+/assets/vendor/*
+#/assets/scss/*
+/assets/scss/bootswatch/*
+#no reason to load source maps
+/**/*.map
